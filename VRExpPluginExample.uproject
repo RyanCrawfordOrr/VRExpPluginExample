@@ -62,6 +62,7 @@
 				"Win64",
 				"Linux",
 				"Android"
+<<<<<<< Updated upstream
 			]
 		},
 		{
@@ -71,6 +72,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Android"
+=======
+>>>>>>> Stashed changes
 			]
 		},
 		{
@@ -80,6 +83,21 @@
 		{
 			"Name": "MoverExamples",
 			"Enabled": true
+		},
+		{
+			"Name": "SmoothSyncPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8f61b007fb44f4abcb7b0974cebff6b"
+		},
+		{
+			"Name": "awsSDK",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/eee4bef24c9d429887ddcc107a5a9b4d"
+		},
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
 		}
 	]
 }
